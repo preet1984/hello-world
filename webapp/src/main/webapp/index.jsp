@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning Sukhpreet </h1>
-    <h1> The date today is Dec 3, 2021, its Rita's Bday Today </h1>
+    <h1> The date today is Jan 21, 2022 </h1>
   
 </form>
