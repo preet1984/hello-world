@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning Sukhpreet </h1>
-    <h1> The date today is Jan 21, 2022 </h1>
+    <h1> The date today is Feb 01, 2022 </h1>
     <h1> Build trigger via Poll SCM </h1>  
 </form>
